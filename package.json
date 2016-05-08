@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "publish": "cp node_modules/react-doc/demo/demo1/index.html . && cp node_modules/react-doc/demo/demo1/build.js .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

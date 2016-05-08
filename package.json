@@ -1,0 +1,22 @@
+{
+  "name": "jasonhzq.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonHzq/jasonhzq.github.io.git"
+  },
+  "author": "jasonHzq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonHzq/jasonhzq.github.io/issues"
+  },
+  "homepage": "https://github.com/jasonHzq/jasonhzq.github.io#readme",
+  "devDependencies": {
+    "react-doc": "^1.0.1"
+  }
+}
